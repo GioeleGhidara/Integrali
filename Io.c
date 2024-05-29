@@ -5,7 +5,6 @@
 	Details.
 */
 
-#define _CRT_SECURE_NO_WARNINGS
 #include "Io.h"
 #define STRL 150
 
